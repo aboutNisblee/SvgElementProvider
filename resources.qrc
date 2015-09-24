@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>images/elapsedtimemeter.svgz</file>
+        <file>qml/Clock.qml</file>
+    </qresource>
+</RCC>
